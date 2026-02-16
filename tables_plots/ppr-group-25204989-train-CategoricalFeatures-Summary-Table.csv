@@ -1,0 +1,9 @@
+Feature,count,unique,top,freq,%missing,cardinality
+Date of Sale (dd/mm/yyyy),54000,2482,20/12/2018,104,0.0,2482
+Address,54000,53357,"ADDINSTOWN, DELVIN, WESTMEATH",3,0.0,53357
+County,54000,26,Dublin,16679,0.0,26
+Eircode,16817,16761,A96WV79,4,68.85740740740741,16761
+Not Full Market Price,54000,2,No,51172,0.0,2
+VAT Exclusive,54000,2,No,44299,0.0,2
+Description of Property,54000,3,Second-Hand Dwelling house /Apartment,44143,0.0,3
+Property Size Description,2848,4,greater than or equal to 38 sq metres and less than 125 sq metres,2073,94.72592592592592,4
