@@ -203,7 +203,7 @@ Offaly,128000.0,No,No,Second-Hand Dwelling house /Apartment,11.759793355371237,2
 Tipperary,50000.0,No,No,Second-Hand Dwelling house /Apartment,10.819798284210286,2016,9,NON_DUBLIN
 Galway,98268.74,No,Yes,New Dwelling house /Apartment,11.495471425581119,2016,5,NON_DUBLIN
 Dublin,320000.0,No,No,Second-Hand Dwelling house /Apartment,12.676079399771027,2016,1,DUBLIN7
-Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,10,NON_DUBLIN
+Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,10,NON_DUBLIN
 Leitrim,25000.0,No,No,New Dwelling house /Apartment,10.12667110305036,2016,8,NON_DUBLIN
 Tipperary,101321.58,No,Yes,New Dwelling house /Apartment,11.526064567668238,2016,8,NON_DUBLIN
 Laois,80000.0,No,Yes,New Dwelling house /Apartment,11.289794413577894,2016,12,NON_DUBLIN
@@ -942,7 +942,7 @@ Waterford,90000.0,No,No,Second-Hand Dwelling house /Apartment,11.407576060361786
 Kildare,225000.0,No,No,Second-Hand Dwelling house /Apartment,12.323860125621126,2016,9,NON_DUBLIN
 Roscommon,73000.0,No,No,Second-Hand Dwelling house /Apartment,11.19822841866684,2016,5,NON_DUBLIN
 Dublin,692000.0,No,No,Second-Hand Dwelling house /Apartment,13.447342679685468,2016,12,DUBLIN_OTHER
-Kildare,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,6,NON_DUBLIN
+Kildare,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,6,NON_DUBLIN
 Tipperary,81000.0,No,No,Second-Hand Dwelling house /Apartment,11.302216779257382,2016,6,NON_DUBLIN
 Dublin,261000.0,No,No,Second-Hand Dwelling house /Apartment,12.472279517715116,2016,12,DUBLIN12
 Galway,106000.0,No,No,Second-Hand Dwelling house /Apartment,11.571203807011969,2016,3,NON_DUBLIN
@@ -1169,7 +1169,7 @@ Meath,115000.0,No,No,Second-Hand Dwelling house /Apartment,11.652696102959753,20
 Dublin,150000.0,No,No,Second-Hand Dwelling house /Apartment,11.918397239722838,2016,12,DUBLIN11
 Tipperary,1030000.0,No,No,Second-Hand Dwelling house /Apartment,13.845070331079134,2016,1,NON_DUBLIN
 Cork,355000.0,No,No,Second-Hand Dwelling house /Apartment,12.779875885354993,2016,8,NON_DUBLIN
-Laois,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,8,NON_DUBLIN
+Laois,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,8,NON_DUBLIN
 Westmeath,40000.0,No,No,Second-Hand Dwelling house /Apartment,10.596659732783579,2016,3,NON_DUBLIN
 Kilkenny,150000.0,No,No,Second-Hand Dwelling house /Apartment,11.918397239722838,2016,8,NON_DUBLIN
 Dublin,638767.0,No,Yes,New Dwelling house /Apartment,13.36729660014214,2016,5,DUBLIN_OTHER
@@ -1420,7 +1420,7 @@ Wicklow,335000.0,No,No,Second-Hand Dwelling house /Apartment,12.721888795877375,
 Waterford,85000.0,No,No,Second-Hand Dwelling house /Apartment,11.350418300109132,2016,8,NON_DUBLIN
 Monaghan,35000.0,No,No,Second-Hand Dwelling house /Apartment,10.463131911491967,2016,12,NON_DUBLIN
 Wexford,133000.0,No,No,Second-Hand Dwelling house /Apartment,11.798111925972618,2016,4,NON_DUBLIN
-Limerick,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,6,NON_DUBLIN
+Limerick,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,6,NON_DUBLIN
 Meath,199500.0,No,No,Second-Hand Dwelling house /Apartment,12.20357452783082,2016,11,NON_DUBLIN
 Meath,363000.0,No,No,Second-Hand Dwelling house /Apartment,12.80216086806413,2016,4,NON_DUBLIN
 Waterford,207500.0,No,No,Second-Hand Dwelling house /Apartment,12.242891437918386,2016,3,NON_DUBLIN
@@ -4185,7 +4185,7 @@ Kildare,255000.0,No,No,Second-Hand Dwelling house /Apartment,12.449022745701502,
 Dublin,235000.0,No,No,Second-Hand Dwelling house /Apartment,12.367345048436391,2016,3,DUBLIN_OTHER
 Galway,85000.0,No,No,Second-Hand Dwelling house /Apartment,11.350418300109132,2016,3,NON_DUBLIN
 Waterford,158587.0,No,Yes,New Dwelling house /Apartment,11.974064923277492,2016,11,NON_DUBLIN
-Kerry,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,4,NON_DUBLIN
+Kerry,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,4,NON_DUBLIN
 Galway,160000.0,No,No,Second-Hand Dwelling house /Apartment,11.982935344196433,2016,3,NON_DUBLIN
 Limerick,445000.0,No,No,Second-Hand Dwelling house /Apartment,13.005831808336863,2016,5,NON_DUBLIN
 Offaly,245000.0,No,No,Second-Hand Dwelling house /Apartment,12.409017571151187,2016,12,NON_DUBLIN
@@ -4821,7 +4821,7 @@ Wexford,90000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.407576060361786,
 Kildare,317180.0,No,Yes,New Dwelling house /Apartment,12.66722786783153,2016,9,NON_DUBLIN
 Dublin,462555.07,No,Yes,New Dwelling house /Apartment,13.044523061018992,2016,2,DUBLIN_OTHER
 Wexford,150000.0,No,No,Second-Hand Dwelling house /Apartment,11.918397239722838,2016,3,NON_DUBLIN
-Cork,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2016,2,NON_DUBLIN
+Cork,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2016,2,NON_DUBLIN
 Wexford,115000.0,No,No,Second-Hand Dwelling house /Apartment,11.652696102959753,2016,2,NON_DUBLIN
 Dublin,275000.0,No,No,Second-Hand Dwelling house /Apartment,12.524530013005734,2016,4,DUBLIN7
 Dublin,325000.0,No,No,Second-Hand Dwelling house /Apartment,12.691583538230217,2016,4,DUBLIN_OTHER
@@ -6071,7 +6071,7 @@ Dublin,290748.0,No,Yes,New Dwelling house /Apartment,12.580215630994084,2017,12,
 Longford,408500.0,No,No,Second-Hand Dwelling house /Apartment,12.920249641259614,2017,12,NON_DUBLIN
 Dublin,950000.0,No,No,Second-Hand Dwelling house /Apartment,13.76421831620775,2017,4,DUBLIN4
 Dublin,705000.0,No,No,Second-Hand Dwelling house /Apartment,13.465954500233115,2017,7,DUBLIN14
-Tipperary,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2017,8,NON_DUBLIN
+Tipperary,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2017,8,NON_DUBLIN
 Limerick,220000.0,No,No,Second-Hand Dwelling house /Apartment,12.301387370778713,2017,5,NON_DUBLIN
 Limerick,217500.0,No,No,Second-Hand Dwelling house /Apartment,12.289958727201455,2017,9,NON_DUBLIN
 Dublin,491000.0,No,No,Second-Hand Dwelling house /Apartment,13.104201443434462,2017,5,DUBLIN_OTHER
@@ -8202,7 +8202,7 @@ Wicklow,325000.0,No,No,Second-Hand Dwelling house /Apartment,12.691583538230217,
 Dublin,380000.0,No,No,Second-Hand Dwelling house /Apartment,12.847929163278053,2017,11,DUBLIN4
 Galway,120000.0,No,No,Second-Hand Dwelling house /Apartment,11.695255355062795,2017,2,NON_DUBLIN
 Dublin,237885.0,No,Yes,New Dwelling house /Apartment,12.379546846303853,2017,8,DUBLIN_OTHER
-Meath,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2017,7,NON_DUBLIN
+Meath,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2017,7,NON_DUBLIN
 Mayo,145000.0,No,No,Second-Hand Dwelling house /Apartment,11.884495917930655,2017,4,NON_DUBLIN
 Cork,250000.0,No,No,Second-Hand Dwelling house /Apartment,12.429220196836383,2017,1,NON_DUBLIN
 Dublin,220000.0,No,No,Second-Hand Dwelling house /Apartment,12.301387370778713,2017,4,DUBLIN1
@@ -9495,7 +9495,7 @@ Sligo,73500.0,No,Yes,New Dwelling house /Apartment,11.205054290550551,2017,11,NO
 Limerick,190000.0,No,No,Second-Hand Dwelling house /Apartment,12.154784614286667,2017,8,NON_DUBLIN
 Wexford,250000.0,No,No,Second-Hand Dwelling house /Apartment,12.429220196836383,2017,5,NON_DUBLIN
 Dublin,315000.0,No,No,Second-Hand Dwelling house /Apartment,12.660331092405906,2017,3,DUBLIN22
-Cavan,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2017,10,NON_DUBLIN
+Cavan,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2017,10,NON_DUBLIN
 Louth,190000.0,No,No,Second-Hand Dwelling house /Apartment,12.154784614286667,2017,8,NON_DUBLIN
 Cork,242000.0,No,No,Second-Hand Dwelling house /Apartment,12.396697137361691,2017,8,NON_DUBLIN
 Laois,30000.0,No,No,Second-Hand Dwelling house /Apartment,10.308985993422082,2017,1,NON_DUBLIN
@@ -10387,7 +10387,7 @@ Cork,305000.0,No,No,Second-Hand Dwelling house /Apartment,12.628070334272698,201
 Kerry,148634.36,No,Yes,New Dwelling house /Apartment,11.909251337198745,2017,7,NON_DUBLIN
 Cork,150000.0,No,No,Second-Hand Dwelling house /Apartment,11.918397239722838,2017,3,NON_DUBLIN
 Dublin,237000.0,No,No,Second-Hand Dwelling house /Apartment,12.37581963951765,2017,11,DUBLIN8
-Kerry,91000.0,No,Yes,New Dwelling house /Apartment,11.418625774449596,2017,8,NON_DUBLIN
+Kerry,91000.0,No,Yes,New Dwelling house /Apartment,11.418625774449598,2017,8,NON_DUBLIN
 Cork,140969.0,No,Yes,New Dwelling house /Apartment,11.856302380764971,2017,11,NON_DUBLIN
 Roscommon,67000.0,No,No,Second-Hand Dwelling house /Apartment,11.112462823634855,2017,8,NON_DUBLIN
 Dublin,425000.0,No,No,Second-Hand Dwelling house /Apartment,12.959846800844963,2017,5,DUBLIN5
@@ -12493,7 +12493,7 @@ Dublin,709251.0,No,Yes,New Dwelling house /Apartment,13.471966172547278,2018,9,D
 Mayo,130000.0,No,No,Second-Hand Dwelling house /Apartment,11.775297421715827,2018,8,NON_DUBLIN
 Dublin,885000.0,No,No,Second-Hand Dwelling house /Apartment,13.69334405393293,2018,5,DUBLIN6
 Dublin,380000.0,No,No,Second-Hand Dwelling house /Apartment,12.847929163278053,2018,10,DUBLIN_OTHER
-Dublin,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2018,5,DUBLIN16
+Dublin,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2018,5,DUBLIN16
 Cork,225000.0,No,No,Second-Hand Dwelling house /Apartment,12.323860125621126,2018,1,NON_DUBLIN
 Dublin,383259.91,No,Yes,New Dwelling house /Apartment,12.856471263386938,2018,10,DUBLIN18
 Dublin,335000.0,No,No,Second-Hand Dwelling house /Apartment,12.721888795877375,2018,10,DUBLIN13
@@ -13120,7 +13120,7 @@ Sligo,50000.0,No,No,Second-Hand Dwelling house /Apartment,10.819798284210286,201
 Limerick,52500.0,No,No,Second-Hand Dwelling house /Apartment,10.868587496017359,2018,7,NON_DUBLIN
 Louth,125000.0,No,No,Second-Hand Dwelling house /Apartment,11.736077016252437,2018,2,NON_DUBLIN
 Offaly,82600.0,Yes,No,Second-Hand Dwelling house /Apartment,11.321777065973317,2018,3,NON_DUBLIN
-Donegal,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2018,8,NON_DUBLIN
+Donegal,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2018,8,NON_DUBLIN
 Wexford,275000.0,No,No,Second-Hand Dwelling house /Apartment,12.524530013005734,2018,5,NON_DUBLIN
 Limerick,115000.0,No,No,Second-Hand Dwelling house /Apartment,11.652696102959753,2018,4,NON_DUBLIN
 Galway,420000.0,No,No,Second-Hand Dwelling house /Apartment,12.948012371209098,2018,5,NON_DUBLIN
@@ -13879,7 +13879,7 @@ Kildare,177000.0,No,No,Second-Hand Dwelling house /Apartment,12.083910661257521,
 Dublin,188500.0,No,No,Second-Hand Dwelling house /Apartment,12.146858590895919,2018,3,DUBLIN1
 Donegal,88105.73,No,No,Second-Hand Dwelling house /Apartment,11.386304199472049,2018,2,NON_DUBLIN
 Offaly,75000.0,No,No,Second-Hand Dwelling house /Apartment,11.225256725762893,2018,7,NON_DUBLIN
-Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2018,8,NON_DUBLIN
+Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2018,8,NON_DUBLIN
 Westmeath,100000.0,No,No,Second-Hand Dwelling house /Apartment,11.51293546492023,2018,11,NON_DUBLIN
 Wicklow,225000.0,No,No,Second-Hand Dwelling house /Apartment,12.323860125621126,2018,10,NON_DUBLIN
 Dublin,1350000.0,No,No,Second-Hand Dwelling house /Apartment,14.115615891155079,2018,6,DUBLIN_OTHER
@@ -15959,7 +15959,7 @@ Westmeath,160000.0,No,No,Second-Hand Dwelling house /Apartment,11.98293534419643
 Dublin,652000.0,No,No,Second-Hand Dwelling house /Apartment,13.387801374649944,2018,7,DUBLIN_OTHER
 Carlow,81876.7,No,No,New Dwelling house /Apartment,11.312981949493057,2018,2,NON_DUBLIN
 Cork,70000.0,No,No,Second-Hand Dwelling house /Apartment,11.156264806643742,2018,8,NON_DUBLIN
-Laois,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2018,6,NON_DUBLIN
+Laois,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2018,6,NON_DUBLIN
 Kildare,383259.0,No,Yes,New Dwelling house /Apartment,12.856468889022485,2018,6,NON_DUBLIN
 Kerry,132500.0,Yes,No,Second-Hand Dwelling house /Apartment,11.794345471549745,2018,9,NON_DUBLIN
 Wexford,99000.0,No,No,Second-Hand Dwelling house /Apartment,11.502885230075814,2018,7,NON_DUBLIN
@@ -17963,7 +17963,7 @@ Tipperary,150000.0,No,No,Second-Hand Dwelling house /Apartment,11.91839723972283
 Meath,220000.0,No,No,Second-Hand Dwelling house /Apartment,12.301387370778713,2018,7,NON_DUBLIN
 Mayo,155000.0,No,No,Second-Hand Dwelling house /Apartment,11.951186847493476,2018,6,NON_DUBLIN
 Clare,100000.0,No,No,Second-Hand Dwelling house /Apartment,11.51293546492023,2018,5,NON_DUBLIN
-Sligo,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2018,1,NON_DUBLIN
+Sligo,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2018,1,NON_DUBLIN
 Louth,183000.0,No,No,Second-Hand Dwelling house /Apartment,12.117246896289503,2018,6,NON_DUBLIN
 Dublin,207000.0,No,No,Second-Hand Dwelling house /Apartment,12.240478903153711,2018,4,DUBLIN_OTHER
 Louth,207048.0,No,Yes,New Dwelling house /Apartment,12.240710759210781,2018,10,NON_DUBLIN
@@ -18503,7 +18503,7 @@ Dublin,207500.0,No,No,Second-Hand Dwelling house /Apartment,12.242891437918386,2
 Dublin,316000.0,No,No,Second-Hand Dwelling house /Apartment,12.663500657121004,2019,4,DUBLIN_OTHER
 Galway,128000.0,No,No,Second-Hand Dwelling house /Apartment,11.759793355371237,2019,11,NON_DUBLIN
 Dublin,779000.0,No,No,Second-Hand Dwelling house /Apartment,13.565767608549109,2019,8,DUBLIN_OTHER
-Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2019,5,NON_DUBLIN
+Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2019,5,NON_DUBLIN
 Galway,285450.0,No,Yes,New Dwelling house /Apartment,12.561825664626767,2019,11,NON_DUBLIN
 Roscommon,76000.0,No,No,Second-Hand Dwelling house /Apartment,11.23850177707664,2019,9,NON_DUBLIN
 Dublin,565000.0,No,No,Second-Hand Dwelling house /Apartment,13.244582780038517,2019,10,DUBLIN_OTHER
@@ -21527,7 +21527,7 @@ Louth,170000.0,No,No,Second-Hand Dwelling house /Apartment,12.04355959836804,201
 Clare,125000.0,No,No,Second-Hand Dwelling house /Apartment,11.736077016252437,2019,7,NON_DUBLIN
 Dublin,800000.0,No,No,Second-Hand Dwelling house /Apartment,13.592368256649284,2019,6,DUBLIN_OTHER
 Donegal,285000.0,No,No,Second-Hand Dwelling house /Apartment,12.560247968016562,2019,12,NON_DUBLIN
-Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2019,12,NON_DUBLIN
+Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2019,12,NON_DUBLIN
 Mayo,155000.0,No,No,Second-Hand Dwelling house /Apartment,11.951186847493476,2019,8,NON_DUBLIN
 Cork,330000.0,No,No,Second-Hand Dwelling house /Apartment,12.706850963741102,2019,2,NON_DUBLIN
 Kildare,460000.0,No,No,Second-Hand Dwelling house /Apartment,13.038983942375959,2019,2,NON_DUBLIN
@@ -23776,7 +23776,7 @@ Dublin,4164000.0,No,No,Second-Hand Dwelling house /Apartment,15.241986948870666,
 Dublin,300000.0,No,No,Second-Hand Dwelling house /Apartment,12.611541086966115,2019,7,DUBLIN_OTHER
 Cork,290000.0,No,No,Second-Hand Dwelling house /Apartment,12.577639650232573,2019,5,NON_DUBLIN
 Dublin,505000.0,No,No,Second-Hand Dwelling house /Apartment,13.132315688453556,2019,11,DUBLIN9
-Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2019,5,NON_DUBLIN
+Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2019,5,NON_DUBLIN
 Cork,200000.0,No,No,Second-Hand Dwelling house /Apartment,12.206077645517674,2019,11,NON_DUBLIN
 Dublin,277533.03,No,Yes,New Dwelling house /Apartment,12.533698835280736,2019,5,DUBLIN_OTHER
 Limerick,105000.0,No,No,Second-Hand Dwelling house /Apartment,11.561725152903833,2019,9,NON_DUBLIN
@@ -29968,7 +29968,7 @@ Kilkenny,880000.0,No,No,Second-Hand Dwelling house /Apartment,13.68767832281738,
 Westmeath,215000.0,No,No,Second-Hand Dwelling house /Apartment,12.278397958261774,2020,6,NON_DUBLIN
 Dublin,420000.0,No,No,Second-Hand Dwelling house /Apartment,12.948012371209098,2020,1,DUBLIN12
 Cork,360000.0,No,No,Second-Hand Dwelling house /Apartment,12.793862088206213,2020,1,NON_DUBLIN
-Limerick,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2020,4,NON_DUBLIN
+Limerick,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2020,4,NON_DUBLIN
 Cavan,139215.0,No,No,Second-Hand Dwelling house /Apartment,11.843781962805807,2020,3,NON_DUBLIN
 Tipperary,180000.0,No,No,Second-Hand Dwelling house /Apartment,12.100717685412471,2020,6,NON_DUBLIN
 Longford,137500.0,No,No,Second-Hand Dwelling house /Apartment,11.83138646878959,2020,2,NON_DUBLIN
@@ -33067,7 +33067,7 @@ Mayo,45000.0,No,No,Second-Hand Dwelling house /Apartment,10.714439990727769,2021
 Tipperary,56000.0,No,No,Second-Hand Dwelling house /Apartment,10.933124826700707,2021,4,NON_DUBLIN
 Offaly,222000.0,No,No,Second-Hand Dwelling house /Apartment,12.310437165348775,2021,8,NON_DUBLIN
 Sligo,75000.0,No,No,Second-Hand Dwelling house /Apartment,11.225256725762893,2021,4,NON_DUBLIN
-Leitrim,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2021,3,NON_DUBLIN
+Leitrim,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2021,3,NON_DUBLIN
 Kerry,400000.0,No,Yes,New Dwelling house /Apartment,12.899222326086994,2021,9,NON_DUBLIN
 Dublin,240000.0,No,No,Second-Hand Dwelling house /Apartment,12.388398368982115,2021,8,DUBLIN9
 Dublin,550000.0,No,No,Second-Hand Dwelling house /Apartment,13.217675375388819,2021,12,DUBLIN_OTHER
@@ -34139,7 +34139,7 @@ Kilkenny,350000.0,No,No,Second-Hand Dwelling house /Apartment,12.765691290604371
 Kildare,339207.04,No,Yes,New Dwelling house /Apartment,12.734368885449166,2021,1,NON_DUBLIN
 Dublin,338000.0,No,No,Second-Hand Dwelling house /Apartment,12.73080413304066,2021,10,DUBLIN5
 Galway,200000.0,No,No,Second-Hand Dwelling house /Apartment,12.206077645517674,2021,3,NON_DUBLIN
-Wexford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2021,4,NON_DUBLIN
+Wexford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2021,4,NON_DUBLIN
 Longford,95652.0,No,No,Second-Hand Dwelling house /Apartment,11.468482338725737,2021,2,NON_DUBLIN
 Wexford,135000.0,No,No,Second-Hand Dwelling house /Apartment,11.813037464800539,2021,12,NON_DUBLIN
 Donegal,250000.0,No,No,Second-Hand Dwelling house /Apartment,12.429220196836383,2021,5,NON_DUBLIN
@@ -35980,7 +35980,7 @@ Clare,720000.0,No,No,Second-Hand Dwelling house /Apartment,13.487007879880162,20
 Meath,251000.0,No,No,Second-Hand Dwelling house /Apartment,12.433212202169729,2021,10,NON_DUBLIN
 Dublin,950000.0,No,No,Second-Hand Dwelling house /Apartment,13.76421831620775,2021,2,DUBLIN15
 Wicklow,325000.0,No,No,Second-Hand Dwelling house /Apartment,12.691583538230217,2021,10,NON_DUBLIN
-Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2021,1,NON_DUBLIN
+Donegal,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2021,1,NON_DUBLIN
 Sligo,95000.0,No,Yes,New Dwelling house /Apartment,11.461642696843066,2021,6,NON_DUBLIN
 Tipperary,205000.0,No,No,Second-Hand Dwelling house /Apartment,12.230770136157428,2021,5,NON_DUBLIN
 Donegal,20000.0,No,No,Second-Hand Dwelling house /Apartment,9.90353755128617,2021,5,NON_DUBLIN
@@ -40628,7 +40628,7 @@ Cork,814977.97,No,Yes,New Dwelling house /Apartment,13.610917588209098,2022,12,N
 Dublin,350000.0,No,No,Second-Hand Dwelling house /Apartment,12.765691290604371,2022,5,DUBLIN16
 Offaly,192000.0,No,No,Second-Hand Dwelling house /Apartment,12.165255859329688,2022,5,NON_DUBLIN
 Dublin,250000.0,No,No,Second-Hand Dwelling house /Apartment,12.429220196836383,2022,6,DUBLIN8
-Monaghan,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2022,6,NON_DUBLIN
+Monaghan,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2022,6,NON_DUBLIN
 Cork,206000.0,No,No,Second-Hand Dwelling house /Apartment,12.235636302128867,2022,11,NON_DUBLIN
 Kildare,335000.0,No,No,Second-Hand Dwelling house /Apartment,12.721888795877375,2022,9,NON_DUBLIN
 Dublin,495000.0,No,No,Second-Hand Dwelling house /Apartment,13.112315061750808,2022,2,DUBLIN_OTHER
@@ -40942,7 +40942,7 @@ Kildare,339207.0,No,Yes,New Dwelling house /Apartment,12.734368767527426,2022,1,
 Dublin,414096.92,No,Yes,New Dwelling house /Apartment,12.933857746579726,2022,3,DUBLIN_OTHER
 Tipperary,272500.0,No,No,Second-Hand Dwelling house /Apartment,12.515397562803473,2022,11,NON_DUBLIN
 Dublin,200000.0,No,No,Second-Hand Dwelling house /Apartment,12.206077645517674,2022,3,DUBLIN_OTHER
-Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2022,5,NON_DUBLIN
+Waterford,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2022,5,NON_DUBLIN
 Meath,38000.0,Yes,No,Second-Hand Dwelling house /Apartment,10.545367754151743,2022,6,NON_DUBLIN
 Dublin,345763.76,Yes,No,Second-Hand Dwelling house /Apartment,12.753513938420593,2022,2,DUBLIN_OTHER
 Dublin,403881.0,No,No,Second-Hand Dwelling house /Apartment,12.908878035071927,2022,1,DUBLIN3
@@ -45168,7 +45168,7 @@ Waterford,272000.0,No,No,Second-Hand Dwelling house /Apartment,12.51356102174196
 Cork,885000.0,No,No,Second-Hand Dwelling house /Apartment,13.69334405393293,2023,12,NON_DUBLIN
 Dublin,550000.0,No,No,Second-Hand Dwelling house /Apartment,13.217675375388819,2023,9,DUBLIN_OTHER
 Galway,102000.0,No,No,Second-Hand Dwelling house /Apartment,11.532737896139919,2023,7,NON_DUBLIN
-Cork,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2023,12,NON_DUBLIN
+Cork,91000.0,Yes,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2023,12,NON_DUBLIN
 Dublin,1000000.0,No,No,Second-Hand Dwelling house /Apartment,13.815511557963774,2023,2,DUBLIN7
 Dublin,400000.0,No,No,Second-Hand Dwelling house /Apartment,12.899222326086994,2023,10,DUBLIN12
 Dublin,450000.0,No,No,Second-Hand Dwelling house /Apartment,13.017005083966255,2023,12,DUBLIN15
@@ -46369,7 +46369,7 @@ Louth,237841.0,No,Yes,New Dwelling house /Apartment,12.379361866651088,2023,2,NO
 Clare,70200.0,Yes,No,Second-Hand Dwelling house /Apartment,11.159117834926688,2023,1,NON_DUBLIN
 Galway,385000.0,No,No,Second-Hand Dwelling house /Apartment,12.861001210669146,2023,3,NON_DUBLIN
 Cork,195000.0,No,No,Second-Hand Dwelling house /Apartment,12.180759965737863,2023,10,NON_DUBLIN
-Cork,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449596,2023,4,NON_DUBLIN
+Cork,91000.0,No,No,Second-Hand Dwelling house /Apartment,11.418625774449598,2023,4,NON_DUBLIN
 Meath,290000.0,No,No,Second-Hand Dwelling house /Apartment,12.577639650232573,2023,2,NON_DUBLIN
 Dublin,345000.0,No,No,Second-Hand Dwelling house /Apartment,12.75130259456002,2023,11,DUBLIN_OTHER
 Kildare,400000.0,No,No,Second-Hand Dwelling house /Apartment,12.899222326086994,2023,8,NON_DUBLIN
